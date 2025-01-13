@@ -1,0 +1,33 @@
+body{
+  font-family: "Dancing Script", cursive;
+}
+.hero{
+    background-color: #e4f9f5;
+    height: 127.5vh;
+}
+h1{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Dancing Script", cursive;
+}
+h2{
+    color: #66bfbf;
+    font-family: "Dancing Script", cursive;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.container0{
+    background-color: #B0EBB4;
+}
+#contact{
+    background-color: #7E8EF1;
+}
+.footer{
+    height: 22vh; 
+    background-color: #e4f9f5;
+}
+
+
+
